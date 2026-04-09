@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 🎓 2nd Computer Science @ Thammasat University  
-💻 Full-stack Developer | Game Dev | Freelancer
-✨ Like to work and study anything!!!!
-☁️ Interesting in clound Computing
+💻 Full-stack Developer | Game Dev | Freelancer  
+✨ Like to work and study anything!!!!  
+☁️ Interesting in clound Computing  
 
 
 ## 🛠 Tech Stack
