@@ -10,7 +10,7 @@ Computer Science student at Thammasat University, interested in
 ### Cloud & Infrastructure
 
 **AWS**  
-EC2 · AMI · ECR · Lambda · API Gateway · SAM · Amplify · S3 · RDS · DynamoDB · Cognito · KMS · SQS & SNS (decoupled messaging) · High-availability infrastructure
+EC2 · AMI · ECR · Lambda · API Gateway · SAM · Amplify · S3 · RDS · DynamoDB · Cognito · Aurora · KMS · SQS & SNS (decoupled messaging) · High-availability infrastructure · Security network
 
 **Infra & Networking**  
 K3s · SkyPilot · Terraform · Ansible · GitHub Actions · Prometheus · Tailscale · Cloudflare Tunnel ·
